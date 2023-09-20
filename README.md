@@ -1,6 +1,10 @@
-num1 = 1.5
-num2 = 6.3
+<!DOCTYPE html>
+<html>
+<body>
 
-# Add two numbers
-sum = num1 + num2
+<h1>My First Heading</h1>
+<p>My first paragraph.</p>
+
+</body>
+</html>
 
